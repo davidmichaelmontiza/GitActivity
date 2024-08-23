@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Green mlack
+=======
+Green mreen
+>>>>>>> 13042cee7bdc0f9142c5ea3a6f120f7a0cf777f2
